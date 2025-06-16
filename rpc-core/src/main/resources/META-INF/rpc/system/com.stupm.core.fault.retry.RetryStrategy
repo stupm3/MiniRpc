@@ -1,0 +1,2 @@
+no=com.stupm.core.fault.retry.NoRetryStrategy
+fixedInterval=com.stupm.core.fault.retry.FixedIntervalStrategy

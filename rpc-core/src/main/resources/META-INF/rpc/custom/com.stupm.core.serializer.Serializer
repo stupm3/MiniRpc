@@ -1,0 +1,3 @@
+jdk=com.stupm.core.serializer.JdkSerializer
+hessian=com.stupm.core.serializer.HessianSerializer
+

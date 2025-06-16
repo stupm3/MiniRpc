@@ -1,0 +1,4 @@
+jdk=com.stupm.core.serializer.JdkSerializer
+hessian=com.stupm.core.serializer.HessianSerializer
+json=com.stupm.core.serializer.JsonSerializer
+kryo=com.stupm.core.serializer.KryoSerializer

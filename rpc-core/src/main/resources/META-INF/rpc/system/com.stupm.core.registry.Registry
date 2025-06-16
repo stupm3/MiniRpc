@@ -1,0 +1,2 @@
+zookeeper=com.stupm.core.registry.ZookeeperRegistry
+

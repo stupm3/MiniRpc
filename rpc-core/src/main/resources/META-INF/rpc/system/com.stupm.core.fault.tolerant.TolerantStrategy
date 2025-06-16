@@ -1,0 +1,4 @@
+failFast=com.stupm.core.fault.tolerant.FailFastTolerantStrategy
+failOver=com.stupm.core.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.stupm.core.fault.tolerant.FailSafeTolerantStrategy
+tokenBucketLimiter=com.stupm.core.fault.tolerant.TokenBucketLimiterTolerantStrategy

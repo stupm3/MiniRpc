@@ -1,0 +1,3 @@
+roundRobin=com.stupm.core.loadbalancer.RoundRobinLoadBalancer
+consistentHash=com.stupm.core.loadbalancer.ConsistentHashLoadBalancer
+random=com.stupm.core.loadbalancer.RandomLoadBalancer
